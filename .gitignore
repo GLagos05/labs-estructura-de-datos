@@ -1,0 +1,5 @@
+# Project exclude paths
+/lab-arreglos/target/
+/lab-ord-avanzado/target/
+/lab-ord-simple/target/
+/lab-pilas-y-colas/target/

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lab-pilas-y-colas" />
+        <module name="lab-ord-avanzado" />
+        <module name="lab-arreglos" />
+        <module name="lab-ord-simple" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lab-arreglos" target="18" />
+      <module name="lab-ord-avanzado" target="18" />
+      <module name="lab-ord-simple" target="18" />
+      <module name="lab-pilas-y-colas" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

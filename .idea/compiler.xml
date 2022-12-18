@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="lab-pilas-y-colas" />
         <module name="lab-ord-avanzado" />
         <module name="lab-listas-enlazadas" />
         <module name="lab-arreglos" />
+        <module name="lab-tablas-hash" />
+        <module name="lab-pilas-y-colas" />
+        <module name="lab-arboles-binarios" />
         <module name="lab-ord-simple" />
       </profile>
     </annotationProcessing>

@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/lab-ord-avanzado/pom.xml" />
         <option value="$PROJECT_DIR$/lab-pilas-y-colas/pom.xml" />
         <option value="$PROJECT_DIR$/lab-listas-enlazadas/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-arboles-binarios/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-tablas-hash/pom.xml" />
       </list>
     </option>
   </component>
